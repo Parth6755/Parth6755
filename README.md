@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=02060f)](https://www.linkedin.com/in/YOUR_LINKEDIN/)
-[![Email](https://img.shields.io/badge/EMAIL-TRANSMIT-22d3ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=02060f)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=02060f)](https://www.linkedin.com/in/www.linkedin.com/in/parth-vaghasiya-3181b6337/)
+[![Email](https://img.shields.io/badge/EMAIL-TRANSMIT-22d3ee?style=for-the-badge&logo=gmail&logoColor=white&labelColor=02060f)](mailto:parthvaghasiya6755@gmail.com)
 ![Location](https://img.shields.io/badge/BASE-N%C3%9CRNBERG%2C%20DE-22d3ee?style=for-the-badge&labelColor=02060f)
 
 </div>
