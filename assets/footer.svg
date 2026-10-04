@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 90" width="1000" height="90" font-family="'Courier New',Consolas,monospace">
+<rect width="1000" height="90" fill="#02060f"/>
+<path d="M0 10H380L400 30H600L620 10H1000" fill="none" stroke="#22d3ee" stroke-width="2"><animate attributeName="stroke-opacity" values="1;0.35;1" dur="3s" repeatCount="indefinite"/></path>
+<text x="500" y="64" fill="#67e8f9" font-size="13" letter-spacing="4" text-anchor="middle">// END OF TRANSMISSION  -  BUILD. DEPLOY. ITERATE. //</text>
+</svg>
