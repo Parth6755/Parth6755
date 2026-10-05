@@ -90,8 +90,8 @@ STAGE 5  Hallucination + output evaluation ........... [----------] queued
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=02060f&title_color=22d3ee&icon_color=22d3ee&text_color=a5f3fc" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=02060f&title_color=22d3ee&text_color=a5f3fc" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Parth6755&show_icons=true&theme=tokyonight&hide_border=true&bg_color=02060f&title_color=22d3ee&icon_color=22d3ee&text_color=a5f3fc" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth6755&layout=compact&theme=tokyonight&hide_border=true&bg_color=02060f&title_color=22d3ee&text_color=a5f3fc" alt="Top languages"/>
 
 </div>
 
